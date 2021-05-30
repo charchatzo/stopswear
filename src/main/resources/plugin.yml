@@ -1,0 +1,4 @@
+name: Stopswear
+version: ${project.version}
+main: io.github.charchatzo.stopswear.Stopswear
+api-version: 1.16
